@@ -8,16 +8,16 @@ layout: hextra-home
   <span>Bem-vindo(a) ao meu espaço!</span>
 {{< /hextra/hero-badge >}}
 
-<div class="hx:mt-6 hx:mb-6 hx:text-4xl sm:hx:text-5xl">
-  {{< hextra/hero-headline >}}
-    Hello, World!
-  {{< /hextra/hero-headline >}}
+<div class="hx:mt-6 hx:mb-6">
+{{< hextra/hero-headline >}}
+  Hello, World!
+{{< /hextra/hero-headline >}}
 </div>
 
-<div class="hx:mb-12 hx:text-xl sm:hx:text-2xl">
-  {{< hextra/hero-subtitle >}}
-    Um espaço onde escrevo sobre coisas.
-  {{< /hextra/hero-subtitle >}}
+<div class="hx:mb-6">
+{{< hextra/hero-subtitle >}}
+  Um espaço onde escrevo sobre coisas.
+{{< /hextra/hero-subtitle >}}
 </div>
 
 <div class="hx:mt-6"></div>
