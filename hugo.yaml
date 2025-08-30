@@ -1,6 +1,7 @@
 # Hugo configuration file
 title: ArthurWillers.github.io
 baseURL: "https://ArthurWillers.github.io/"
+description: "Um espaço onde escrevo sobre coisas. Feito com Hugo e o tema Hextra."
 
 # import hextra as module
 module:
@@ -22,7 +23,7 @@ menu:
     - name: About
       pageRef: /about
       weight: 1
-    - name: Contact ↗
+    - name: Contact 
       url: "https://github.com/ArthurWillers"
       weight: 2
     - name: Search
@@ -34,11 +35,18 @@ menu:
       url: "https://github.com/ArthurWillers/ArthurWillers.github.io"
       params:
         icon: github
+  sidebar:
+    - name: GitHub
+      weight: 1
+      url: "https://github.com/ArthurWillers"
+    - name: Instagram
+      weight: 1
+      url: "https://www.instagram.com/arthurwillers"
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: True
+    displayLogo: true
 
   footer:
     displayPoweredBy: true
