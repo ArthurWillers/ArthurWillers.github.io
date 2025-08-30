@@ -2,6 +2,7 @@
 title: ArthurWillers.github.io
 baseURL: "https://ArthurWillers.github.io/"
 description: "Um espaço onde escrevo sobre coisas. Feito com Hugo e o tema Hextra."
+enableGitInfo: true
 
 # import hextra as module
 module:
@@ -17,21 +18,28 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
+    copy:
+      enable: true
+      display: hover
+
 
 menu:
   main:
     - name: About
       pageRef: /about
       weight: 1
-    - name: Contact 
-      url: "https://github.com/ArthurWillers"
+    - name: Blog
+      pageRef: /blog
       weight: 2
-    - name: Search
+    - name: Contact <svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg>
+      url: "https://github.com/ArthurWillers"
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 5
       url: "https://github.com/ArthurWillers/ArthurWillers.github.io"
       params:
         icon: github
@@ -58,3 +66,8 @@ params:
 
   theme:
     default: 'light'
+
+  displayUpdatedDate: true
+  dateFormat: "January 2, 2006"
+
+  externalLinkDecoration: true
