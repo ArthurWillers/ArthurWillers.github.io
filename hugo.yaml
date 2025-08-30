@@ -1,6 +1,5 @@
 # Hugo configuration file
 title: ArthurWillers.github.io
-languageCode: "pt-BR"
 baseURL: "https://ArthurWillers.github.io/"
 
 # import hextra as module
@@ -43,7 +42,11 @@ params:
 
   footer:
     displayPoweredBy: true
+    displayCopyright: true
 
   editURL:
     enable: true
     base: "https://github.com/ArthurWillers/ArthurWillers.github.io/edit/master/content"
+
+  theme:
+    default: 'light'
