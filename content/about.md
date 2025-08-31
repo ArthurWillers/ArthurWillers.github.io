@@ -19,6 +19,14 @@ Além da música, tenho um grande interesse por carreiras militares e uma visão
 
 todo político brasileiro (de cargos altos), sem exceção é **CORRUPTO**
 
+### A Tropa
+
+Mas a vida real acontece mesmo é fora do código, e é aí que entra a tropa. Uma irmandade de parceiros que topam qualquer parada, formada por figuras como Ridiger Steiner, Rafael Martens, Lucas Kraemer, entre outros.
+
+É com eles que a coisa fica séria. Seja para uma resenha regada a muita cachaça, seja para um acampamento — mesmo que alguns se tornam cadelinhas com medo do frio. Mas também estamos prontos para o cenário oposto: cavar trincheira, se esconder no matagal, invadir um banco e, se a situação apertar, trocar tiro com a polícia (CALMA, É BRINCADEIRA!).
+
+Com essa galera, qualquer perrengue vira história para contar.
+
 ### O Brasil que me indigna
 
 
