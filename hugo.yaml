@@ -86,3 +86,11 @@ params:
     dateFormat: "January 2, 2006"
 
   externalLinkDecoration: true
+
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      index: content
+      tokenize: full
