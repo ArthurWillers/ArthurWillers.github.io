@@ -3,8 +3,8 @@ title: ArthurWillers.github.io
 baseURL: "https://ArthurWillers.github.io/"
 description: "Um espaço onde escrevo sobre coisas. Feito com Hugo e o tema Hextra."
 enableGitInfo: true
+enableRobotsTXT: true
 defaultContentLanguage: pt-BR
-
 languages:
   pt-br:
     languageCode: pt-BR
