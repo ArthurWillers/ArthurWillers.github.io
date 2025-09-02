@@ -34,31 +34,27 @@ markup:
 
 menu:
   main:
+    - name: Projetos
+      pageRef: /docs
+      weight: 1
     - name: Sobre Mim
       pageRef: /about
-      weight: 1
+      weight: 2
     - name: Blog
       pageRef: /blog
-      weight: 2
+      weight: 3
     - name: Contato <svg class="hx:inline hx:rtl:rotate-270 hx:align-baseline" height="1em" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="m9.1716 7.7574h7.0711m0 0v7.0711m0-7.0711-8.4853 8.4853" stroke-linecap="round" stroke-linejoin="round"></path></svg>
       url: "https://github.com/ArthurWillers"
-      weight: 3
-    - name: Search
       weight: 4
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/ArthurWillers/ArthurWillers.github.io"
       params:
         icon: github
-  sidebar:
-    - name: GitHub
-      weight: 1
-      url: "https://github.com/ArthurWillers"
-    - name: Instagram
-      weight: 1
-      url: "https://www.instagram.com/arthurwillers"
 
 params:
   navbar:

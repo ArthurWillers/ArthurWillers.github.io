@@ -35,7 +35,7 @@ layout: hextra-home
     title="Projetos"
     subtitle="Explore os projetos em que estou trabalhando."
     icon="briefcase"
-    link="/projects"
+    link="/docs"
     class="hx:min-h-[280px]"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(59,130,246,0.1),hsla(0,0%,100%,0));"
   >}}
