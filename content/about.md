@@ -40,4 +40,4 @@ Se quiser trocar uma ideia ou acompanhar meus projetos, me encontre por aí:
 * **E-mail:** [arthurwillers@proton.me](mailto:arthurwillers@proton.me)
 * **Instagram:** [@arthurwillers](https://www.instagram.com/arthurwillers)
 
-Obrigado pela visita!
+I use Arch btw!
