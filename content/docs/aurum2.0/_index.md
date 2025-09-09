@@ -37,10 +37,6 @@ Contornei o problema implementando um gráfico de barras simples que mostra:
 - As 3 categorias com mais despesas
 - As 3 categorias com mais receitas
 
-{{< callout type="info" >}}
-**Status atual**: No momento em que escrevo este texto, ainda estou utilizando a versão 1.0 com TALL Stack, pois está funcionando e a versão 2.0 ainda não está finalizada.
-{{< /callout >}}
+## Aurum2.0: A Nova Versão
 
-## O que vem por aí: Aurum2.0
-
-A versão 2.0 está sendo desenvolvida com uma abordagem mais cuidadosa e tecnologias que resolvem os problemas identificados na primeira versão... (ta no processo)
+A versão 2.0 foi desenvolvida com uma abordagem mais cuidadosa e tecnologias que resolvem os problemas identificados na primeira versão. (ta no processo de escrita)
