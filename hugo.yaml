@@ -57,6 +57,10 @@ menu:
         icon: github
 
 params:
+  # Display the last modification date
+  displayUpdatedDate: true
+  dateFormat: "2 de January de 2006"
+
   navbar:
     displayTitle: true
     displayLogo: true
@@ -76,10 +80,6 @@ params:
 
   theme:
     default: 'light'
-
-  page:
-    displayUpdatedDate: true
-    dateFormat: "January 2, 2006"
 
   externalLinkDecoration: true
 
