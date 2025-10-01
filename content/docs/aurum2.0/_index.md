@@ -50,3 +50,32 @@ O objetivo deste `README` é contar a história do Aurum, compartilhando as moti
 Então, só para alinharmos as expectativas: esta não é uma documentação técnica, daquelas cheias de diagramas e detalhes sobre o código. **Por enquanto**, o foco é outro.
 
 A ideia aqui é contar a história do projeto e servir como um guia rápido. Você vai encontrar uma explicação sobre as **funcionalidades** e um passo a passo para a **instalação**, mas não vamos nos aprofundar em como as coisas funcionam "por debaixo dos panos".
+
+### O Desenvolvimento
+
+Depois da experiência com a primeira versão, o lema para o Aurum 2.0 foi: **"fazer do jeito certo, sem pressa"**. O objetivo não era apenas ter o software funcionando, mas construir algo que eu tivesse orgulho de ter escrito, com uma base sólida e fácil de manter.
+
+Esta parte é um pouco mais "técnica", mas o foco é compartilhar as decisões e o *porquê* por trás delas, e não detalhar cada linha de código.
+
+#### A Escolha da Stack: O Simples que Funciona
+
+Diferente da v1, onde usei o TALL Stack para acelerar, na v2.0 eu voltei para o básico e robusto. A escolha foi:
+
+* **Backend: Laravel 12** Não tinha por que mudar. O Laravel é um framework que adoro, extremamente produtivo e com uma comunidade gigante. Usei a estrutura padrão MVC (Model-View-Controller) que ele oferece, o que mantém tudo organizado.
+
+* **Frontend: Blade com um toque de JavaScript** O maior problema da v1 foi a reatividade dos gráficos com o Livewire. Para a v2.0, decidi simplificar. A maior parte da interface é renderizada pelo servidor com o Blade, o que é ótimo para a performance e simplicidade. Para a interatividade, como nos dropdowns, a ideia é usar Alpine.js.
+
+#### Resolvendo o Problema dos Gráficos
+
+Inicialmente, meu plano para evitar o problema da v1 era mais complexo, envolvendo bibliotecas de JavaScript como ApexCharts. No entanto, com o passar do tempo, percebi que estava complicando demais para o que eu realmente precisava.
+
+A verdade é que para exibir barras de progresso simples, não é necessária uma biblioteca externa.
+
+No final, a solução foi aprimorar a **mesma abordagem que usei como contorno na v1**, só que bem melhor:
+
+1.  **Busca dos Dados no Backend:** O `DashboardController` no Laravel é responsável por buscar os dados brutos: a soma total de receitas, o total de despesas e os valores somados de cada categoria. Ele apenas entrega os números para a view.
+2.  **Cálculo e Renderização no Blade:** A "mágica" acontece diretamente no frontend, mas sem JavaScript. Os gráficos são, na verdade, barras de progresso feitas com HTML. O cálculo do percentual de cada categoria é feito na própria view com o Blade, que então define a largura (`width`) da barra usando CSS.
+
+Essa abordagem não só resolveu o problema de reatividade de forma definitiva, como também deixou o carregamento da página mais rápido, sem a necessidade de carregar bibliotecas JavaScript pesadas.
+
+Além disso, melhorei a funcionalidade: em vez de mostrar apenas as 3 categorias principais como na v1, agora o dashboard exibe **todas** as categorias que tiveram movimentação no mês, dando uma visão muito mais completa e útil dos seus gastos e ganhos.
