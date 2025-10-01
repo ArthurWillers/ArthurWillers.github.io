@@ -39,4 +39,14 @@ Contornei o problema implementando um gráfico de barras simples que mostra:
 
 ## Aurum2.0: A Nova Versão
 
-A versão 2.0 foi desenvolvida com uma abordagem mais cuidadosa e tecnologias que resolvem os problemas identificados na primeira versão. (ta no processo de escrita)
+A versão 2.0 foi desenvolvida com uma abordagem mais cuidadosa e tecnologias que resolvem os problemas identificados na primeira versão. O objetivo foi criar uma base de código mais limpa, sustentável e, acima de tudo, que fosse um reflexo do meu próprio aprendizado, sem as "gambiarras" da primeira tentativa.
+
+Nesta nova fase, optei por uma stack diferente para ter mais controle sobre a interatividade, especialmente nos gráficos que foram um grande desafio na v1. A ideia é construir algo sólido que eu possa evoluir com o tempo.
+
+### Sobre esta Documentação
+
+O objetivo deste `README` é contar a história do Aurum, compartilhando as motivações, os desafios enfrentados e as decisões que moldaram o projeto. É um diário de bordo do desenvolvimento, mostrando a jornada de um programador criando uma ferramenta para si mesmo.
+
+Então, só para alinharmos as expectativas: esta não é uma documentação técnica, daquelas cheias de diagramas e detalhes sobre o código. **Por enquanto**, o foco é outro.
+
+A ideia aqui é contar a história do projeto e servir como um guia rápido. Você vai encontrar uma explicação sobre as **funcionalidades** e um passo a passo para a **instalação**, mas não vamos nos aprofundar em como as coisas funcionam "por debaixo dos panos".
