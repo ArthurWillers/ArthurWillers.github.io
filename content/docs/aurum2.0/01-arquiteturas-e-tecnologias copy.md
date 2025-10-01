@@ -28,8 +28,8 @@ O backend é o coração da aplicação, responsável por toda a lógica de neg�
 
 O frontend é responsável por tudo que o usuário vê e interage no navegador.
 
--   **Engine de Template: Blade**, o motor de templates nativo do Laravel, usado para construir as views de forma dinâmica.
--   **Framework CSS: Tailwind CSS**, um framework *utility-first* que permite a criação de interfaces customizadas de forma rápida e eficiente.
--   **JavaScript: AlpineJS**, um framework reativo e declarativo que permite adicionar comportamento e interatividade diretamente no HTML.
--   **Build Tool: Vite**, utilizado para compilar e otimizar os assets do frontend (CSS e JavaScript) de forma extremamente rápida.
--   **Gerenciador de Pacotes JS:** **NPM (Node Package Manager)**.
+-   **Engine de Template:** Blade, o motor de templates nativo do Laravel, usado para construir as views de forma dinâmica.
+-   **Framework CSS:** Tailwind CSS, um framework *utility-first* que permite a criação de interfaces customizadas de forma rápida e eficiente.
+-   **JavaScript:** AlpineJS, um framework reativo e declarativo que permite adicionar comportamento e interatividade diretamente no HTML.
+-   **Build Tool:** Vite, utilizado para compilar e otimizar os assets do frontend (CSS e JavaScript) de forma extremamente rápida.
+-   **Gerenciador de Pacotes JS:** NPM (Node Package Manager).
