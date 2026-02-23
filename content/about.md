@@ -19,9 +19,9 @@ Além da música, gasto meu tempo tentando entender a humanidade e as engrenagen
 
 ### A Tropa
 
-Mas a vida real acontece mesmo é fora do código, e é aí que entra a tropa. Uma irmandade de parceiros que topam qualquer parada, formada por figuras como Ridiger Steiner, Rafael Martens, Lucas Kraemer, entre outros.
+Mas a vida real acontece mesmo é fora do código. É aí que entra a tropa: uma irmandade de parceiros que topam qualquer parada, formada por figuras como Ridiger Steiner, Rafael Martens, Lucas Kraemer, entre outros.
 
-É com eles que a coisa fica séria. Seja para uma resenha regada a muita cachaça, seja para um acampamento — mesmo que alguns se tornam cadelinhas com medo do frio. Mas também estamos prontos para o cenário oposto: cavar trincheira, se esconder no matagal, invadir um banco e, se a situação apertar, trocar tiro com a polícia (CALMA, É BRINCADEIRA!).
+É com eles que a coisa fica séria. Seja para uma resenha regada a muita cachaça, seja para um acampamento — mesmo que alguns se tornem cadelinhas com medo do frio. Mas também estamos prontos para o cenário oposto: cavar trincheira, se esconder no matagal, invadir um banco e, se a situação apertar, trocar tiro com a polícia (CALMA, É BRINCADEIRA!).
 
 Com essa galera, qualquer perrengue vira história para contar.
 
@@ -37,4 +37,4 @@ Se quiser trocar uma ideia ou acompanhar meus projetos, me encontre por aí:
 * **E-mail:** [arthurwillers@proton.me](mailto:arthurwillers@proton.me)
 * **Instagram:** [@arthurwillers](https://www.instagram.com/arthurwillers)
 
-I use Arch btw!
+*I use Arch btw!*
