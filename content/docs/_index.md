@@ -16,7 +16,7 @@ Um software de gestão financeira pessoal focado em simplicidade e facilidade de
 ---
 
 ## James
-Um "Life OS" e ERP pessoal Multi-Tenant.
+Um "Life OS" e ERP pessoal.
 
 [Acessar a documentação](https://arthurwillers.github.io/james/)
 
