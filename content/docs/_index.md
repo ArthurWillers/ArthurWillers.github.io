@@ -14,3 +14,10 @@ Um software de gestão financeira pessoal focado em simplicidade e facilidade de
 [Acessar a documentação](/docs/aurum2.0)
 
 ---
+
+## James
+Um "Life OS" e ERP pessoal Multi-Tenant.
+
+[Acessar a documentação](https://arthurwillers.github.io/james/)
+
+---
