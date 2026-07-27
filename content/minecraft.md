@@ -38,7 +38,7 @@ O servidor conta com alguns plugins para melhorar a experiência e a imersão:
 
 ## Links Úteis
 
-* **Mapa Interativo (Pl3xMap):** [http://10.243.164.77:8067](http://10.243.164.77:8067)
+* **Mapa Interativo (Pl3xMap):** [http://10.243.164.77:85/mapa/](http://10.243.164.77:85/mapa/)
 * **Estatísticas de Jogo (Plan):** [http://10.243.164.77:8804](http://10.243.164.77:8804)
 
 *Nota: Os links acima e a conexão com o servidor só funcionam se o aplicativo do ZeroTier estiver aberto e conectado na rede correta.*
