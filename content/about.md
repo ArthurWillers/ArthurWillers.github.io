@@ -17,18 +17,6 @@ Mas nem só de `<div>` e `commit` vive um dev. Quando não estou na frente do co
 
 Além da música, gasto meu tempo tentando entender a humanidade e as engrenagens que movem o mundo — ou o que resta delas. Meu interesse por carreiras militares hoje é mais uma intenção de servir apenas para aprimoramento pessoal do que uma meta de carreira; minha curiosidade real é mais ampla, meio cética e niilista, buscando entender o 'todo' por conta própria. Como diria o Paulo Kogos: 'A educação é overrated'. O sistema tradicional não entrega as respostas que eu procuro.
 
-### A Tropa
-
-Mas a vida real acontece mesmo é fora do código. É aí que entra a tropa: uma irmandade de parceiros que topam qualquer parada, formada por figuras como Ridiger Steiner, Rafael Martens, Lucas Kraemer, entre outros.
-
-É com eles que a coisa fica séria. Seja para uma resenha regada a muita cachaça, seja para um acampamento — mesmo que alguns se tornem cadelinhas com medo do frio. Mas também estamos prontos para o cenário oposto: cavar trincheira, se esconder no matagal, invadir um banco e, se a situação apertar, trocar tiro com a polícia (CALMA, É BRINCADEIRA!).
-
-Com essa galera, qualquer perrengue vira história para contar.
-
-### O Brasil que me indigna
-
-E já que a sinceridade é a alma deste blog, não escondo minha profunda indignação com a política brasileira, que considero um projeto de desgoverno sistêmico. Acredito que o "sistema" é o verdadeiro câncer do país, uma ideia que exploro em detalhes no meu primeiro post do blog.
-
 ### Onde me encontrar
 
 Se quiser trocar uma ideia ou acompanhar meus projetos, me encontre por aí:

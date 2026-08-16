@@ -212,7 +212,7 @@ $secondary: #6c757d;
 // 3. Adicione seus estilos customizados aqui
 .custom-button {
   border-radius: 10px;
-  
+
   &:hover {
     transform: translateY(-2px);
     transition: transform 0.2s ease;
@@ -287,12 +287,12 @@ Agora, vamos editar a view `resources/views/welcome.blade.php`:
         <div class="col-md-12">
             <h1 class="display-4 text-primary">Laravel + Bootstrap 5</h1>
             <p class="lead">Configuração funcionando perfeitamente!</p>
-            
+
             <div class="alert alert-success" role="alert">
                 <h4 class="alert-heading">Sucesso!</h4>
                 <p>O Bootstrap 5 está funcionando corretamente em seu projeto Laravel.</p>
             </div>
-            
+
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exemploModal">
                 Testar Modal
             </button>
@@ -382,7 +382,7 @@ $secondary: #6c757d;
 // 4. Adicione seus estilos customizados aqui
 .custom-button {
   border-radius: 10px;
-  
+
   &:hover {
     transform: translateY(-2px);
     transition: transform 0.2s ease;
@@ -405,18 +405,18 @@ Agora você pode usar os ícones em suas views. Vamos atualizar nossa página de
                 <i class="bi bi-bootstrap-fill"></i> Laravel + Bootstrap 5
             </h1>
             <p class="lead">Configuração funcionando perfeitamente!</p>
-            
+
             <div class="alert alert-success" role="alert">
                 <h4 class="alert-heading">
                     <i class="bi bi-check-circle-fill"></i> Sucesso!
                 </h4>
                 <p>O Bootstrap 5 e os ícones estão funcionando corretamente em seu projeto Laravel.</p>
             </div>
-            
+
             <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exemploModal">
                 <i class="bi bi-play-circle"></i> Testar Modal
             </button>
-            
+
             <div class="mt-4">
                 <h5>Exemplos de ícones:</h5>
                 <p>

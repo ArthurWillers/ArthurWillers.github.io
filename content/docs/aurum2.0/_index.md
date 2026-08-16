@@ -9,7 +9,7 @@ Existem muitos softwares desse tipo, um deles é o [Maybe Finance](https://githu
 
 ## Por que Aurum2.0? Onde está o 1.0?
 
-Você pode estar se perguntando: "Se esse é o 2.0, cadê o 1.0?" 
+Você pode estar se perguntando: "Se esse é o 2.0, cadê o 1.0?"
 
 Bom, ele existe e está disponível no meu GitHub: [Aurum v1.0](https://github.com/ArthurWillers/Aurum). A primeira versão foi desenvolvida usando um Starter Kit do Laravel com TALL Stack, onde a principal diferença é o Livewire. Escolhi esse kit para acelerar o desenvolvimento, já que vinha com views prontas e utilizava FluxUI, uma biblioteca incrível de componentes Blade preparados para Livewire.
 
